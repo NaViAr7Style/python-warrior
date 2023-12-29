@@ -1,0 +1,1 @@
+format_money = lambda x: "${:.2f}".format(x)
