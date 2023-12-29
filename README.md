@@ -31,7 +31,7 @@ Here are all of the code wars python exercises. The pure goal of this challenge 
 * 5-kyu - `0`
 * 6-kyu - `0`
 * 7-kyu - `0`
-* 8-kyu - `13`
+* 8-kyu - `14`
 
 ### 8 kyu
 1. [`Cat Years - Dog Years`](/8-kyu/cat_years_dog_years.py)
@@ -47,3 +47,4 @@ Here are all of the code wars python exercises. The pure goal of this challenge 
 11. [`Remove exclamation marks`](/8-kyu/remove_exclamation_marks.py)
 12. [`Evil or Odious`](/8-kyu/evil_or_odious.py)
 13. [`Return Negative`](/8-kyu/return_negative.py)
+14. [`Do you spean English?`](/8-kyu/do_you_speak_english.py)
