@@ -31,7 +31,7 @@ Here are all of the code wars python exercises. The pure goal of this challenge 
 * 5-kyu - `0`
 * 6-kyu - `0`
 * 7-kyu - `0`
-* 8-kyu - `10`
+* 8-kyu - `11`
 
 ### 8 kyu
 1. [`Cat Years - Dog Years`](/8-kyu/cat_years_dog_years.py)
@@ -44,3 +44,4 @@ Here are all of the code wars python exercises. The pure goal of this challenge 
 8. [`Generate user links`](/8-kyu/generate_user_links.py)
 9. [`Multiply`](/8-kyu/multiply.py)
 10. [`Sum of Positive`](/8-kyu/sum_of_positive.py)
+11. [`Remove exclamation marks`](/8-kyu/remove_exclamation_marks.py)
