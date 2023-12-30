@@ -31,7 +31,7 @@ Here are all of the code wars python exercises. The pure goal of this challenge 
 * 5-kyu - `0`
 * 6-kyu - `0`
 * 7-kyu - `0`
-* 8-kyu - `29`
+* 8-kyu - `30`
 
 ### 8 kyu
 1. [`Cat Years - Dog Years`](/8-kyu/cat_years_dog_years.py)
@@ -63,3 +63,4 @@ Here are all of the code wars python exercises. The pure goal of this challenge 
 27. [`String Repeat`](/8-kyu/string_repeat.py)
 28. [`A Needle in the Haystack`](/8-kyu/needle_in_a_hay_stack.py)
 29. [`Return Strings`](/8-kyu/return_strings.py)
+30. [`Basic Operators`](/8-kyu/basic_mathematical_operators.py)
