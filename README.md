@@ -31,7 +31,7 @@ Here are all of the code wars python exercises. The pure goal of this challenge 
 * 5-kyu - `0`
 * 6-kyu - `0`
 * 7-kyu - `0`
-* 8-kyu - `25`
+* 8-kyu - `26`
 
 ### 8 kyu
 1. [`Cat Years - Dog Years`](/8-kyu/cat_years_dog_years.py)
@@ -59,3 +59,4 @@ Here are all of the code wars python exercises. The pure goal of this challenge 
 23. [`Number to String`](/8-kyu/number_to_string.py)
 24. [`Opposite Number`](/8-kyu/opposite_number.py)
 25. [`Remove first and last character`](/8-kyu/remove_first_and_last_character.py)
+26. [`Square Sum`](/8-kyu/square_sum.py)
