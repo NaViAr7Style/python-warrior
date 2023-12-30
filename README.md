@@ -31,7 +31,7 @@ Here are all of the code wars python exercises. The pure goal of this challenge 
 * 5-kyu - `0`
 * 6-kyu - `0`
 * 7-kyu - `0`
-* 8-kyu - `19`
+* 8-kyu - `23`
 
 ### 8 kyu
 1. [`Cat Years - Dog Years`](/8-kyu/cat_years_dog_years.py)
@@ -53,3 +53,7 @@ Here are all of the code wars python exercises. The pure goal of this challenge 
 17. [`Easy Logs`](/8-kyu/easy_logs.py)
 18. [`Dollars And Cents`](/8-kyu/dollars_and_cents.py)
 19. [`Freudian Translator`](/8-kyu/freudian_translator.py)
+20. [`How good are you really?`](/8-kyu/how_good_are_you_really.py)
+21. [`Reversed string`](/8-kyu/reversed_string.py)
+22. [`Bool to Word`](/8-kyu/bool_to_word.py)
+23. [`Number to String`](/8-kyu/number_to_string.py)
